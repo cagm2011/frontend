@@ -1,0 +1,52 @@
+header {
+    margin-top: 1px;
+    background-color: #304b62
+}
+
+header h2 {
+    color: yellow;
+}
+
+header .cabecera p {
+    color: red;    
+}
+
+header .menu a {
+    display: blog;
+    color: #fff;
+    padding: 0px 15px;
+    margin-left: 15px;
+    
+}
+
+.slider {
+    margin: 40px 0px 40px 70px;
+    width: 100%;
+}
+
+.main {
+    margin: 5px 0px 5px 0px;
+    width: 100%;
+  /*  background-color: #E03965 */
+}
+
+ 
+
+
+.card01 {
+    margin: 5px 0px 5px 0px;
+}
+
+li {
+display: inline;
+}
+
+footer {
+    background-color: #304b62;
+    border: 1px solid;
+    
+}
+
+footer p {
+    padding: 25px;
+}
